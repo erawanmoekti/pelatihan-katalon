@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-005 - Ubah Data Pendidikan</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b914ad07-f6ba-4596-85a1-e51ac98f9535</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-003 - Validasi Master Data Pendidikan</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0f451d15-91b8-4b7c-b813-bdda00b128fe</testCaseGuid>
+</TestCaseEntity>

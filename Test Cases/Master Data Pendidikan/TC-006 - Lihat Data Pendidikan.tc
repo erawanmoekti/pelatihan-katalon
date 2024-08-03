@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-006 - Lihat Data Pendidikan</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e5551f1c-cc29-40aa-b70d-4de8159b47d1</testCaseGuid>
+</TestCaseEntity>
